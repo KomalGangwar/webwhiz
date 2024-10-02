@@ -23,7 +23,7 @@ Campus Placement system is the project which is beneficial for college students,
   3. Change drive to the location where you want your project to be copied
   4. Now type or copy-paste the below given commands.
     ```
-      https://github.com/Yash091/Campus-Placement-Sys
+      https://github.com/KomalGangwar/webwhiz
     ```
   5. Press Enter and the project will be cloned in you system.
 
