@@ -120,7 +120,7 @@ Campus Placement system is the project which is beneficial for college students,
                 aid INT PRIMARY KEY,
                 admin_pass VARCHAR(40) NOT NULL
             );
-            INSERT INTO officer ( admin_pass)
+            INSERT INTO officer ( aid,admin_pass)
                 VALUES
                 (1,"12345");
         ```
